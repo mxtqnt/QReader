@@ -1,3 +1,4 @@
+import webbrowser
 import numpy as np
 import cv2 as cv
 import pytesseract
@@ -14,7 +15,7 @@ while True:
 
     # Se frame lido ret = true
     if not ret:
-        print("Can't receive frame (stream end?). Exiting ...")
+        print("CFrame não recebido...")
         break
 
     # Operações no Frame
@@ -24,7 +25,6 @@ while True:
     cv.imshow('frame', gray)
     if cv.waitKey(1) == ord('q'):
         break
-
 
 
 # Tudo pronto acaba captura
