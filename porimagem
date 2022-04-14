@@ -1,5 +1,5 @@
 import cv2
-filename = "qrcode.png"                                            #Nome do arquivo que contem o Qr Code
+filename = "qrcode.png"                                                 #Nome do arquivo que contem o Qr Code
 image = cv2.imread(filename)                                            # Ler a imagem
 detector = cv2.QRCodeDetector()                                         # Inicializar o detector da biblioteca
 data, vertices_array, binary_qrcode = detector.detectAndDecode(image)   # Detectar e decodificar
