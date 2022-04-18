@@ -1,6 +1,6 @@
 # QReader
 
-![](https://raw.githubusercontent.com/mxtqn/QReader/1ca95508851af0d73cc5d84ca794e12c12afdd4c/icon.svg) Código em Python para ler Qr code a partir de uma imagem.
+![](https://raw.githubusercontent.com/mxtqn/QReader/efc87c037590ea691eb01fb6387c4e49a8bcbda8/Readme/python.svg) Código em Python para ler Qr code a partir de uma imagem.
 
 #### Bibliotecas
 
