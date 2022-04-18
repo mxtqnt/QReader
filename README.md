@@ -4,7 +4,7 @@
 
 #### Bibliotecas
 
-Somente com o uso de OpenCV
+![](https://user-images.githubusercontent.com/89314731/163866128-7dd9d26f-2ca1-4a41-b1d3-4e4377d45285.png) Somente com o uso de OpenCV
 
 ```
 import cv2
