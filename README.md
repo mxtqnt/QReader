@@ -2,6 +2,8 @@
 
 Código em Python para ler Qr code a partir de uma imagem.
 
+
+![](https://raw.githubusercontent.com/mxtqn/QReader/main/python.png)
 #### Bibliotecas
 
 Somente com o uso de OpenCV
