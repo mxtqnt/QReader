@@ -10,7 +10,7 @@
 import cv2
 ```
 
-#### Funcionamento
+#### 🧠Funcionamento
 
 ```
 import cv2
@@ -24,7 +24,7 @@ if vertices_array is not None:                                          # Se enc
 else:
     print("Erro")
 ``` 
-###### [leitura](https://github.com/mxtqn/qr_code/blob/main/leitura)
+###### 📘 [leitura](https://github.com/mxtqn/qr_code/blob/main/leitura)
 ###### Detalhes 
 ```
 filename = "{}" 
